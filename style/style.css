@@ -21,7 +21,7 @@ body{
     flex-wrap: wrap;
     border: 2px solid black;
 
-    height: 700px;
+    height: 800px;
 
     width: 500px;
     
@@ -112,7 +112,7 @@ body{
     flex-wrap: wrap;
     border: 2px solid black;
 
-    height: 500px;
+    height: 600px;
 
     width: 300px;
     
@@ -195,7 +195,7 @@ select{
     flex-wrap: wrap;
     border: 2px solid black;
 
-    height: 500px;
+    height: 600px;
 
     width: 400px;
     
@@ -283,7 +283,7 @@ select{
     flex-wrap: wrap;
     border: 2px solid black;
 
-    height: 500px;
+    height: 600px;
 
     width: 500px;
     
